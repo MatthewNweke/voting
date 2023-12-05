@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Andrew Tate",
+    "type": "Swedish Massage",
+    "img": "/Andrew.svg",
+    "price": "$50",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "name": "Sandra Bellows",
+    "type": "Yoni Massage",
+    "img": "/Sandra.svg",
+    "price": "$80",
+    "time": "10:00 - 12:00"
+  },
+  {
+    "name": "Cassandra Martin",
+    "type": "Full body Massage",
+    "img": "/Cassandra.png",
+    "price": "$100",
+    "time": "13:00 - 14:30"
+  },
+  {
+    "name": "Hidethepain Harold",
+    "type": "Swedish Massage",
+    "img": "/Harold.svg",
+    "price": "$50",
+    "time": "14:00 - 14:30"
+  },
+  {
+    "name": "Amanda Oh",
+    "type": "Foot Massage",
+    "img": "/Amanda.png",
+    "price": "$20",
+    "time": "15:00 - 16:00"
+  },
+  {
+    "name": "Nosike Chinaza",
+    "type": "Foot Massage",
+    "img": "/Naza.svg",
+    "price": "$20",
+    "time": "16:00 - 18:30"
+  }
+]

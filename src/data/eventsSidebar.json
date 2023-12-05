@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Home",
+    "icon": "/House.svg",
+    "path": "home"
+  },
+
+  {
+    "title": "Connect",
+    "icon": "/UsersThree.svg",
+    "path": "connect"
+  },
+  {
+    "title": "Commerce",
+    "icon": "/Storefront.svg",
+    "path": "commerce"
+  },
+  {
+    "title": "Business Directory",
+    "icon": "/bxs_book.svg",
+    "path": "business-directory"
+  },
+  {
+    "title": "Chat",
+    "icon": "/chat_message.svg",
+    "path": "chat"
+  },
+  {
+    "title": "Profile",
+    "icon": "/UserCircle.svg",
+    "path": "profile"
+  },
+  {
+    "title": "Tickets",
+    "icon": "/icon-park.svg",
+    "path": "tickets"
+  },
+  {
+    "title": "Live",
+    "icon": "/live.svg",
+    "path": "live"
+  },
+  {
+    "title": "Stereo",
+    "icon": "/music.svg",
+    "path": "stereo"
+  },
+  {
+    "title": "Tv",
+    "icon": "/tv.svg",
+    "path": "tv"
+  },
+  {
+    "title": "Voting",
+    "icon": "/voting.svg",
+    "path": "voting"
+  },
+  {
+    "title": "Education",
+    "icon": "/bi_book.svg",
+    "path": "education"
+  }
+]
