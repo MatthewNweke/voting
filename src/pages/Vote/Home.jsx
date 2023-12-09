@@ -14,7 +14,7 @@ const Home = () => {
             <p className="font-bold text-[1.5rem] mb-5">Voting</p>
           </div>
           <div className="flex items-center relative cursor-pointer mb-10">
-            <img src={search} alt="" className="absolute left-3" />
+            <img src={search} alt="" className="absolute left-3 px-10" />
             <div className="flex items-center gap-3 w-[100%] ">
               <input
                 type="text"

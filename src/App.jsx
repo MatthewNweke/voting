@@ -21,6 +21,11 @@ import Live from './pages/Vote/Live';
 import Education from './pages/Vote/Education';
 import Voting from './pages/Vote/Voting';
 import Television from './pages/Vote/Television';
+import CreatePoll from './pages/Vote/CreatePoll';
+import ClosePoll from './pages/Vote/ClosePoll';
+import SuccessMessage from './pages/Vote/SuccessMessage';
+import PollResult from './pages/Vote/PollResult';
+
 function App() {
   const router = createBrowserRouter([
 
@@ -29,6 +34,26 @@ function App() {
     //   // change the page
     //   element: <Home />,
     // },
+    {
+      path: '/payment-sucessfull',
+      // change the page
+      element: <SuccessMessage />,
+    },
+    {
+      path: '/close-poll',
+      // change the page
+      element: <ClosePoll />,
+    },
+    {
+      path: '/create-poll',
+      // change the page
+      element: <CreatePoll />,
+    },
+    {
+      path: '/poll-result',
+      // change the page
+      element: <PollResult />,
+    },
     {
       path: '/Vote',
       element: <EventsLayout />,
